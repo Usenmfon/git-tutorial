@@ -9,10 +9,10 @@ namespace GitTutorial
             Console.WriteLine("Hello World!");
             string name = "Usenmfon";
             Console.WriteLine("My name is " + name);
-            Console.WriteLine("Bio details");
+            //Console.WriteLine("User details");
             string bankName = "Straford plc";
             string contactNumber = "+1 7552341";
-            Console.WriteLine("Bio Details\n"+
+            Console.WriteLine("User Details\n"+
             "Bank: " + bankName +
             "\nContact: " + contactNumber);
         }
